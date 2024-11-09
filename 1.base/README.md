@@ -1,25 +1,25 @@
-# AIGC和大模型行业术语
+AIGC和大模型行业术语。
 
 ### AGI
-Artificial General Intelligence，通用人工智能
+Artificial General Intelligence，通用人工智能。
 
 ### AIGC
-AI-Generated Content或AI Generate Content，AI生成/生产内容
+AI-Generated Content或AI Generate Content，AI生成/生产内容。
 
 ### SOTA
-State of  the Art，一个算法领域里的词，达到了某种艺术效果/状态，就是很牛逼，行业领先的意思
+State of  the Art，一个算法领域里的词，达到了某种艺术效果/状态，就是很牛逼，行业领先的意思。
 
 ### Ground truth
-就是实际值，期望值，是正确答案、参考答案的意思。算法模型的输出（预测）就要跟这个东西去比较（算法模型的目标，就是要无限接近这个值）
+就是实际值，期望值，是正确答案、参考答案的意思。算法模型的输出（预测）就要跟这个东西去比较（算法模型的目标，就是要无限接近这个值）。
 
 ### FLOPS
-Floating-point Operations Per Second，每秒浮点数运算次数算力单位
+Floating-point Operations Per Second，每秒浮点数运算次数算力单位。
 
 ### MFLOPS
-Million FLOPS，每秒百万次浮点运算算力单位
+Million FLOPS，每秒百万次浮点运算算力单位。
 
 ### GFLOPS
-Giga FLOPS，每秒十亿次浮点运算算力单位
+Giga FLOPS，每秒十亿次浮点运算算力单位。
 
 ### GPU
 Graphics Processing Unit，图形处理器。起初专门设计用于加速图形的渲染，用于计算机游戏和3D领域。与CPU（中央处理器）比，GPU拥有大量的并行处理核心，使得它们在执行大量并行计算时更高效。当前，广泛应用于深度学习领域，用它可以快速加快模型的训练和推理。
